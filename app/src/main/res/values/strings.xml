@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PruebaKt</string>
+    <string name="titulo">Dado Mágico</string>
+    <string name="txt_boton">Presiona</string>
+</resources>
